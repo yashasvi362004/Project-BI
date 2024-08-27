@@ -1,7 +1,5 @@
 # SPOTIFY-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Problem Statement
 
 The Spotify Dashboard aims to provide a comprehensive analysis of Spotify's music streaming data for 2023. The dashboard is designed to offer insights into various aspects of user engagement, music trends, and performance metrics, enabling stakeholders to make data-driven decisions. Key objectives of the dashboard include:
