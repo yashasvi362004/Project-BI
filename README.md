@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The Spotify Dashboard aims to provide a comprehensive analysis of Spotify's music streaming data for 2023. The dashboard is designed to offer insights into various aspects of user engagement, music trends, and performance metrics, enabling stakeholders to make data-driven decisions. Key objectives of the dashboard include:
+The dashboard is designed to offer insights into various aspects of user engagement, music trends, and performance metrics, enabling stakeholders to make data-driven decisions. Key objectives of the dashboard include:
 
 Understanding User Behavior: Analyzing user interaction patterns, including play counts, skips, and playlist additions, to identify popular tracks, genres, and artists.
 
